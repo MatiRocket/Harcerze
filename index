@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Racje żywnościowe harcerzy</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f0f4f8;
+      margin: 0;
+      padding: 20px;
+      color: #222;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    h1 {
+      color: #1e2a38;
+      font-size: 2rem;
+      margin-bottom: 5px;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 5px;
+      margin-top: 30px;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      background: white;
+      box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+      border-radius: 8px;
+      padding: 20px 30px;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+      margin-top: 8px;
+    }
+    li {
+      margin-bottom: 8px;
+      line-height: 1.4;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.85rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Racje żywnościowe harcerzy</h1>
+    <p>Praca na straganie — 1h 15min, 3 przerwy po 15 min</p>
+  </header>
+  <main class="container">
+    <section>
+      <h2>Mati (podzastępowy)</h2>
+      <ul>
+        <li>Kanapki z szynką i serem (2 szt.)</li>
+        <li>Jabłko</li>
+        <li>Baton energetyczny</li>
+        <li>Woda mineralna 500 ml</li>
+        <li>Chusteczki higieniczne</li>
+        <li>Notes + długopis (notowanie wyników sprzedaży i uwag)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Olek (zastępowy)</h2>
+      <ul>
+        <li>Kanapki z pastą jajeczną (2 szt.)</li>
+        <li>Banan</li>
+        <li>Baton musli</li>
+        <li>Woda mineralna 500 ml</li>
+        <li>Mała apteczka (plastry, opatrunki)</li>
+        <li>Latarka czołowa</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Wojtek</h2>
+      <ul>
+        <li>Kanapki z szynką i warzywami (2 szt.)</li>
+        <li>Pomarańcza</li>
+        <li>Batonik proteinowy</li>
+        <li>Woda mineralna 500 ml</li>
+        <li>Rękawiczki jednorazowe</li>
+        <li>Mały multitool (scyzoryk, otwieracz)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Leń (Filip)</h2>
+      <p>Sam się ogarnia 😉</p>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Harcerski Zespół — Plewiska
+  </footer>
+</body>
+</html>
